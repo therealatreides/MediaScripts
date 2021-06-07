@@ -1,0 +1,17 @@
+Updates are available from the application's website (www.bulkrenameutility.co.uk). Make sure you're using the latest version to get the most benefit.
+Only those files which you have selected will be renamed. The number selected is shown in the status bar. If you don't select anything, you can't rename.
+The sequence in which the criteria are processed is indicated by a number - for example, File Numbering is the 9th operation.
+Subscribe to the discussion forum on www.bulkrenameutility.co.uk to get help and advice from others.
+You can always see a preview of what the new file name will look like in the "New Name" column.
+If a rename operation goes wrong - just undo it with CTRL-Z.
+Select or de-select all files quickly with CTRL-A and CTRL-D.
+Save your favourite, commonly-used rename operations as Favourites (via the File menu).
+Need to stamp a file name with it's creation date? It's easy, and in lots of different formats too!
+When you re-launch the utility, the application remembers the screen position from the previous launch.
+Display the file list with gridlines if you find these help.
+Need to process sub-directories too? Just tick the Subfolders box! (Take care though, as this can be a lengthy operation)
+Need to add an auto-number field, but the files aren't in the right order? Just use drag 'n' drop to reorder them manually.
+Want to add suffixes like 0001, 0002, 0003 to files? Set the Pad value to 4 and it's all done!
+The Rename button is disabled? You probably haven't selected any files or folders to rename or there are no file names to change.
+Have a list of file names in a text file? Import them and use them as a basis for the rename.
+Are file names containing numbers sorted differently to Explorer in Windows? Just tick the "Logical Sorting" menu option.

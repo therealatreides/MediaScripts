@@ -1,0 +1,83 @@
+Bulk Rename Utility
+Copyright© TGRMN Software
+
+Bulk Rename Utility 
+End-User License Agreement
+
+This is a license agreement between you, a final user of computer
+software, and TGRMN Software (hereinafter "TGRMN", "TGRMN Software" or
+"TGRMN Software Company"). 
+Please read carefully the following terms and conditions before using
+this software. Unless you have a different license agreement signed by
+TGRMN Software your use of this software indicates your acceptance of
+this license agreement and warranty. Installing and using Bulk Rename
+Utility signifies acceptance of the terms and conditions of this
+license agreement. If you do not agree with the terms and conditions
+of this license agreement you must remove Bulk Rename Utility files
+from your storage devices and cease to use the product.
+
+* Usage *
+Bulk Rename Utility is free of charge for personal, private use, at
+home. To use Bulk Rename Utility for or within a business entity,
+company or commercial environment and/or for commercial purposes, or
+within government departments or agencies, a commercial license is
+required for each computer where Bulk Rename Utility is installed. The
+commercial licenses can be purchased from our website
+http://bulkrenameutility.co.uk 
+One commercial license is required for each computer where Bulk Rename
+Utility is installed. You may access Bulk Rename Utility through a
+network, provided that you have obtained individual licenses for the
+software covering all the computers that will access the software
+through the network. For instance, if 10 different computers will
+access Bulk Rename Utility on the network, each computer must have its
+own commercial license, regardless of whether they use Bulk Rename
+Utility at different times or concurrently. 
+
+* Disclaimer of Warranty *
+THIS SOFTWARE IS PROVIDED BY TGRMN SOFTWARE "AS IS" AND ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL TGRMN SOFTWARE BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+Because of the various hardware and software environments into which
+Bulk Rename Utility may be used, NO WARRANTY OF FITNESS FOR A
+PARTICULAR PURPOSE IS OFFERED. 
+Good data processing procedure dictates that any program be thoroughly
+tested with non-critical data before relying on it. The user must
+assume the entire risk of using Bulk Rename Utility.
+
+* Copyright and Trademark Rights *
+The Software is owned by TGRMN Software. This Agreement does not grant
+you any intellectual property rights in the Software. TGRMN Software
+owns Copyright and all Intellectual Property Rights to the Software
+and to any copies made of the Software.
+
+* Restrictions *
+You agree not to modify, adapt, translate, reverse engineer,
+decompile, disassemble or otherwise attempt to discover the source
+code of the Software. You may not use, copy, modify or transfer copies
+of the Software except as provided in this licence. You may not
+decompile, disassemble, or create derivative works based upon the
+Software. You may not modify, adapt, translate, or create derivative
+works based upon the written documentation. You may not sub-license,
+rent, lease, sell or assign the Software to others. All explicitly
+non-granted rights are reserved. 
+This license is provided personally to you and for that reason it does
+not allow you to make any duplicate (copy) to be sold, borrowed,
+assigned, leased or transferred in any manner whatsoever to another
+person. Any transfer executed in violation of this provision shall be
+deemed invalid and constitute a reason for termination of your license
+validity.
+
+* Governing Law *
+This Agreement shall be governed by, construed and enforced in
+accordance with the internal substantive laws (and not the laws of
+choice of laws) of South Australia, Australia, without giving effect
+to the conflict of laws provisions. Sole venue shall be in the
+applicable state and federal courts of South Australia.
